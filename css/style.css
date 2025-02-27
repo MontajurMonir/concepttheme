@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.golla{
+    height: 200px;
+    width: 200px;
+    background: teal;
+    margin-left: 20px;
+    margin-bottom: 20px;
+   
+}
+.scnd{
+    background: tomato;
+    transition: all linear .4s;
+}
+.scnd:hover{
+    
+    background: deeppink;
+    
+}
